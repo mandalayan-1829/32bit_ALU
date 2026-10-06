@@ -1,1 +1,1 @@
-# 32bit_ALU
+# 8bit_ALU
